@@ -1,10 +1,8 @@
 # 监控分析器（Video Active Frame Deleter）
 
-剔除监控视频中的静止（无用）帧，只保留发生有效运动的画面，并输出精简视频与报告。
+简体中文 | [English](README.en.md)
 
-A Windows tool that removes static (useless) frames from surveillance footage and
-keeps only segments with real motion — with per-video ROI analysis, live screen
-monitoring and batch processing.
+剔除监控视频中的静止（无用）帧，只保留发生有效运动的画面，并输出精简视频与报告。
 
 ![界面预览](docs/screenshot.png)
 
